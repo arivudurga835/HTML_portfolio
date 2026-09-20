@@ -19,17 +19,6 @@ The website presents basic information about me, my skills, projects, and other 
 * Basic navigation using HTML links
 * Structured webpage layout
 
-## 📸 Screenshots
-
-### Home Page
-![Portfolio Home](portfolio-home.png)
-
-### About Page
-![Portfolio About](portfolio-about.png)
-
-### Contact Page
-![Portfolio Contact](portfolio-contact.png)
-
 ## 🛠️ Technologies Used
 
 * HTML5
