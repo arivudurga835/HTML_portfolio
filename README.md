@@ -22,13 +22,13 @@ The website presents basic information about me, my skills, projects, and other 
 ## 📸 Screenshots
 
 ### Home Page
-![Portfolio Home](screenshots/portfolio-home.png)
+![Portfolio Home](portfolio-home.png)
 
 ### About Page
-![Portfolio About](screenshots/portfolio-about.png)
+![Portfolio About](portfolio-about.png)
 
 ### Contact Page
-![Portfolio Contact](screenshots/portfolio-contact.png)
+![Portfolio Contact](portfolio-contact.png)
 
 ## 🛠️ Technologies Used
 
